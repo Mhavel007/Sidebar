@@ -5,4 +5,4 @@ Desenvolvi um Sidebar (responsivo) inspirado em site de clínica veterinária on
 Pets, Clientes, Veterinários, Dashboad e Ajustes.
 Tecnologias utilizadas: HTML5, CSS3, JavaScript e Figma. 
 
-Link para Testar:
+Link para Testar: https://mhavel007.github.io/Sidebar/
